@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @legendofnolan
 - 👀 I’m interested in Cyber Security and Programming.
-- 🌱 I’m currently learning Splunk and Algorithms
-- 💞️ I’m looking to collaborate on pi-hole. 
 - 📫 How to reach me by leaving a message here. 
 
 <!---
